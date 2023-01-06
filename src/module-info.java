@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mapod
+ *
+ */
+module addressBook {
+}
